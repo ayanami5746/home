@@ -19,6 +19,16 @@ cards:
       - text: 本科生
         class: tag-target
 
+cards:
+  - ddl: 2025-12-24
+    title: 秋冬学期星级志愿者名单
+    detail: 关于公示浙江大学2025-2026学年秋冬学期星级志愿者名单的通知
+    href: https://zjutw.zju.edu.cn/2025/1218/c32290a3120922/page.psp
+    tags:
+      - text: 荣誉评选
+        class: tag-category
+      - text: 志愿者
+        class: tag-category
 ---
 
 
